@@ -1,3 +1,5 @@
+package Practice;
+
 public class Sum_3 {
 
     static void findNumber(int[] arr, int sum) {
